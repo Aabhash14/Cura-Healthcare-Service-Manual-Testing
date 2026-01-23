@@ -1,6 +1,7 @@
 # Cure-Healthcare-Service-Manual-Testing
 
-URL:
+Domain: https://katalon-demo-cura.herokuapp.com/
+URL: https://docs.google.com/spreadsheets/d/1-e37W8wiiKOsAAvyE6Nkuva1GhoAwb8O2mvGs4V_SDI/edit?gid=0#gid=0
 
 1. Project Overview
 
